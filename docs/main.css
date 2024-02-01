@@ -58,7 +58,22 @@ html,body{
     background:white
 }
 
+.mySlides > img {
+    width:100%;
+}
 
 
 
 
+
+
+.mySlides {
+    margin-left: auto; 
+    margin-right:auto; 
+    width: 80%; 
+    position:relative
+}
+
+.slideshow-container {
+    margin-top: 50%;
+}
