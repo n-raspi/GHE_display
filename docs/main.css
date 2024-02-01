@@ -16,44 +16,21 @@ html,body{
     height: 100%;
     width: 50%; 
     float: right;
-<<<<<<< HEAD
-    background: red;
-}
-
-#cube {
-    height: 60%;
-    height: 14%;
-    position: absolute;
-    bottom: 50%;
-=======
     background: white;
 }
+
 
 #cube {
     height: 36%;
     position: absolute;
     top: 50%;
->>>>>>> gh-pages
     left: 16%;
 }
 
 #GHE_logo {
-<<<<<<< HEAD
-    height: 14%;
-    position: absolute;
-    bottom: 14%;
-    left: 20;
-}
-
-#ETHZ_logo {
-    height: 10%;
-    position: absolute;
-    bottom: 20;
-    left: 20;
-=======
     height: 12%;
     position: absolute;
-    top: 35%;
+    bottom: 54%;
     left: 13%;
 }
 
@@ -62,5 +39,4 @@ html,body{
     position: absolute;
     top: 20;
     left: 35;
->>>>>>> gh-pages
 }
