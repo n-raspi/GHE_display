@@ -16,27 +16,26 @@ html,body{
     height: 100%;
     width: 50%; 
     float: right;
-    background: red;
+    background: white;
 }
 
 #cube {
-    height: 60%;
-    height: 14%;
+    height: 36%;
     position: absolute;
-    bottom: 50%;
+    top: 50%;
     left: 16%;
 }
 
 #GHE_logo {
-    height: 14%;
+    height: 12%;
     position: absolute;
-    bottom: 14%;
-    left: 20;
+    top: 35%;
+    left: 13%;
 }
 
 #ETHZ_logo {
-    height: 10%;
+    height: 7%;
     position: absolute;
-    bottom: 20;
-    left: 20;
+    top: 20;
+    left: 35;
 }
