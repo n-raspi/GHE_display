@@ -2,36 +2,32 @@ html,body{
     width: 100%;
     height: 100%;
     margin:0;
-    background: turquoise;
+    background: blue;
 }
 
 #left-div{
+    box-sizing: border-box;
     height: 100%;
-    width: 50%; 
+    width: 34%; 
     float: left;
     background: white;
+    border-width: 0 2 0 0;
+    border-color: black;
+    border-style: solid;
 }
-
-#right-div{
-    height: 100%;
-    width: 50%; 
-    float: right;
-    background: white;
-}
-
 
 #cube {
     height: 36%;
     position: absolute;
     top: 50%;
-    left: 16%;
+    left: 7%;
 }
 
 #GHE_logo {
     height: 12%;
     position: absolute;
     bottom: 54%;
-    left: 13%;
+    left: 4%;
 }
 
 #ETHZ_logo {
@@ -40,3 +36,29 @@ html,body{
     top: 20;
     left: 35;
 }
+
+
+
+#mid-div {
+    box-sizing: border-box;
+    height: 100%;
+    width: 33%; 
+    float: left;
+    background: white;
+    border-width: 0 2 0 0;
+    border-color: black;
+    border-style: solid;
+}
+
+#right-div{
+    box-sizing: border-box;
+    height: 100%;
+    width: 33%; 
+    float: right;
+    background:white
+}
+
+
+
+
+
